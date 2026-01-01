@@ -2064,12 +2064,12 @@ body {
 
   .center-image {
     width: 35vmin; /* Un poco más grande para que se aprecie bien en vertical */
-    top: 20%; /* Justo al centro */
+    top: 50%; /* Justo al centro */
     border: 2px solid #fff;
   }
 
   .flowers {
-    transform: scale(2); /* Flores más pequeñas */
+    transform: scale(1); /* Flores más pequeñas */
    
   }
   
